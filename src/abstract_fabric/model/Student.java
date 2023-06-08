@@ -1,2 +1,5 @@
-package abstract_fabric.model;public class Student {
+package abstract_fabric.model;
+
+public abstract class Student {
+    public String introduction;
 }
